@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'pmark/cli'
+PMark::Cli.run

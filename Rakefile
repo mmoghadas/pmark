@@ -1,0 +1,3 @@
+require 'pmark'
+
+Pmark.new

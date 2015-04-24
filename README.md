@@ -1,4 +1,4 @@
-# Pmark
+# PMark
 
 ## Requirements
 Ruby
